@@ -8,34 +8,34 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
-<layer number="2" name="Route2" color="1" fill="3" visible="yes" active="no"/>
-<layer number="3" name="Route3" color="4" fill="3" visible="yes" active="no"/>
-<layer number="4" name="Route4" color="1" fill="4" visible="yes" active="no"/>
-<layer number="5" name="Route5" color="4" fill="4" visible="yes" active="no"/>
-<layer number="6" name="Route6" color="1" fill="8" visible="yes" active="no"/>
-<layer number="7" name="Route7" color="4" fill="8" visible="yes" active="no"/>
-<layer number="8" name="Route8" color="1" fill="2" visible="yes" active="no"/>
-<layer number="9" name="Route9" color="4" fill="2" visible="yes" active="no"/>
-<layer number="10" name="Route10" color="1" fill="7" visible="yes" active="no"/>
-<layer number="11" name="Route11" color="4" fill="7" visible="yes" active="no"/>
-<layer number="12" name="Route12" color="1" fill="5" visible="yes" active="no"/>
-<layer number="13" name="Route13" color="4" fill="5" visible="yes" active="no"/>
-<layer number="14" name="Route14" color="1" fill="6" visible="yes" active="no"/>
-<layer number="15" name="Route15" color="4" fill="6" visible="yes" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
-<layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="no"/>
-<layer number="21" name="tPlace" color="16" fill="1" visible="yes" active="no"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
+<layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
+<layer number="3" name="Route3" color="4" fill="3" visible="no" active="no"/>
+<layer number="4" name="Route4" color="1" fill="4" visible="no" active="no"/>
+<layer number="5" name="Route5" color="4" fill="4" visible="no" active="no"/>
+<layer number="6" name="Route6" color="1" fill="8" visible="no" active="no"/>
+<layer number="7" name="Route7" color="4" fill="8" visible="no" active="no"/>
+<layer number="8" name="Route8" color="1" fill="2" visible="no" active="no"/>
+<layer number="9" name="Route9" color="4" fill="2" visible="no" active="no"/>
+<layer number="10" name="Route10" color="1" fill="7" visible="no" active="no"/>
+<layer number="11" name="Route11" color="4" fill="7" visible="no" active="no"/>
+<layer number="12" name="Route12" color="1" fill="5" visible="no" active="no"/>
+<layer number="13" name="Route13" color="4" fill="5" visible="no" active="no"/>
+<layer number="14" name="Route14" color="1" fill="6" visible="no" active="no"/>
+<layer number="15" name="Route15" color="4" fill="6" visible="no" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
+<layer number="20" name="Dimension" color="15" fill="1" visible="no" active="no"/>
+<layer number="21" name="tPlace" color="16" fill="1" visible="no" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -44,8 +44,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -53,19 +53,19 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
-<layer number="51" name="tDocu" color="14" fill="1" visible="yes" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="yes" active="no"/>
-<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="yes" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
-<layer number="57" name="tCAD" color="7" fill="1" visible="yes" active="no"/>
-<layer number="59" name="tCarbon" color="7" fill="1" visible="yes" active="no"/>
-<layer number="60" name="bCarbon" color="7" fill="1" visible="yes" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
+<layer number="51" name="tDocu" color="14" fill="1" visible="no" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
+<layer number="57" name="tCAD" color="7" fill="1" visible="no" active="no"/>
+<layer number="59" name="tCarbon" color="7" fill="1" visible="no" active="no"/>
+<layer number="60" name="bCarbon" color="7" fill="1" visible="no" active="no"/>
 <layer number="90" name="Modules" color="7" fill="1" visible="no" active="yes"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
@@ -185,6 +185,84 @@ source: http://www.world-semi.com/uploads/soft/130904/1_1500205981.pdf</descript
 <text x="4" y="1.2" size="1.016" layer="25">&gt;NAME</text>
 <text x="4" y="-1.6" size="0.6096" layer="27">&gt;VALUE</text>
 </package>
+<package name="LED-0603">
+<wire x1="0.46" y1="0.17" x2="0" y2="0.17" width="0.2032" layer="21"/>
+<wire x1="-0.46" y1="0.17" x2="0" y2="0.17" width="0.2032" layer="21"/>
+<wire x1="0" y1="0.17" x2="0.2338" y2="-0.14" width="0.2032" layer="21"/>
+<wire x1="-0.0254" y1="0.1546" x2="-0.2184" y2="-0.14" width="0.2032" layer="21"/>
+<smd name="C" x="0" y="0.877" dx="1" dy="1" layer="1" roundness="30"/>
+<smd name="A" x="0" y="-0.877" dx="1" dy="1" layer="1" roundness="30"/>
+<text x="-0.6985" y="-0.889" size="0.4064" layer="25" rot="R90">&gt;NAME</text>
+<text x="1.0795" y="-1.016" size="0.4064" layer="27" rot="R90">&gt;VALUE</text>
+</package>
+<package name="LED-1206">
+<wire x1="-1" y1="1" x2="-2.4" y2="1" width="0.2032" layer="21"/>
+<wire x1="-2.4" y1="1" x2="-2.4" y2="-1" width="0.2032" layer="21"/>
+<wire x1="-2.4" y1="-1" x2="-1" y2="-1" width="0.2032" layer="21"/>
+<wire x1="1" y1="1" x2="2.4" y2="1" width="0.2032" layer="21"/>
+<wire x1="2.4" y1="1" x2="2.4" y2="-1" width="0.2032" layer="21"/>
+<wire x1="2.4" y1="-1" x2="1" y2="-1" width="0.2032" layer="21"/>
+<wire x1="0.3" y1="0.7" x2="0.3" y2="0" width="0.2032" layer="21"/>
+<wire x1="0.3" y1="0" x2="0.3" y2="-0.7" width="0.2032" layer="21"/>
+<wire x1="0.3" y1="0" x2="-0.3" y2="0.6" width="0.2032" layer="21"/>
+<wire x1="-0.3" y1="0.6" x2="-0.3" y2="-0.6" width="0.2032" layer="21"/>
+<wire x1="-0.3" y1="-0.6" x2="0.3" y2="0" width="0.2032" layer="21"/>
+<smd name="A" x="-1.5" y="0" dx="1.2" dy="1.4" layer="1"/>
+<smd name="C" x="1.5" y="0" dx="1.2" dy="1.4" layer="1"/>
+<text x="-0.889" y="1.397" size="0.4064" layer="25">&gt;NAME</text>
+<text x="-1.016" y="-1.778" size="0.4064" layer="27">&gt;VALUE</text>
+</package>
+<package name="LED-1206-BOTTOM">
+<wire x1="-2" y1="0.4" x2="-2" y2="-0.4" width="0.127" layer="49"/>
+<wire x1="-2.4" y1="0" x2="-1.6" y2="0" width="0.127" layer="49"/>
+<wire x1="1.6" y1="0" x2="2.4" y2="0" width="0.127" layer="49"/>
+<wire x1="-1.27" y1="0" x2="-0.381" y2="0" width="0.127" layer="49"/>
+<wire x1="-0.381" y1="0" x2="-0.381" y2="0.635" width="0.127" layer="49"/>
+<wire x1="-0.381" y1="0.635" x2="0.254" y2="0" width="0.127" layer="49"/>
+<wire x1="0.254" y1="0" x2="-0.381" y2="-0.635" width="0.127" layer="49"/>
+<wire x1="-0.381" y1="-0.635" x2="-0.381" y2="0" width="0.127" layer="49"/>
+<wire x1="0.254" y1="0" x2="0.254" y2="0.635" width="0.127" layer="49"/>
+<wire x1="0.254" y1="0" x2="0.254" y2="-0.635" width="0.127" layer="49"/>
+<wire x1="0.254" y1="0" x2="1.27" y2="0" width="0.127" layer="49"/>
+<rectangle x1="-0.75" y1="-0.75" x2="0.75" y2="0.75" layer="51"/>
+<smd name="A" x="-1.8" y="0" dx="1.5" dy="1.6" layer="1"/>
+<smd name="C" x="1.8" y="0" dx="1.5" dy="1.6" layer="1"/>
+<hole x="0" y="0" drill="2.3"/>
+<polygon width="0" layer="51">
+<vertex x="1.1" y="-0.5"/>
+<vertex x="1.1" y="0.5"/>
+<vertex x="1.6" y="0.5"/>
+<vertex x="1.6" y="0.25" curve="90"/>
+<vertex x="1.4" y="0.05"/>
+<vertex x="1.4" y="-0.05" curve="90"/>
+<vertex x="1.6" y="-0.25"/>
+<vertex x="1.6" y="-0.5"/>
+</polygon>
+<polygon width="0" layer="51">
+<vertex x="-1.1" y="0.5"/>
+<vertex x="-1.1" y="-0.5"/>
+<vertex x="-1.6" y="-0.5"/>
+<vertex x="-1.6" y="-0.25" curve="90"/>
+<vertex x="-1.4" y="-0.05"/>
+<vertex x="-1.4" y="0.05" curve="90"/>
+<vertex x="-1.6" y="0.25"/>
+<vertex x="-1.6" y="0.5"/>
+</polygon>
+<wire x1="1.016" y1="1.016" x2="2.7686" y2="1.016" width="0.127" layer="21"/>
+<wire x1="2.7686" y1="1.016" x2="2.7686" y2="-1.016" width="0.127" layer="21"/>
+<wire x1="2.7686" y1="-1.016" x2="1.016" y2="-1.016" width="0.127" layer="21"/>
+<wire x1="3.175" y1="0" x2="3.3528" y2="0" width="0.127" layer="21"/>
+<wire x1="-1.016" y1="-1.016" x2="-2.7686" y2="-1.016" width="0.127" layer="21"/>
+<wire x1="-2.7686" y1="-1.016" x2="-2.7686" y2="1.016" width="0.127" layer="21"/>
+<wire x1="-2.7686" y1="1.016" x2="-1.016" y2="1.016" width="0.127" layer="21"/>
+<text x="-2.54" y="1.27" size="1.27" layer="25">&gt;NAME</text>
+<text x="-2.54" y="-2.54" size="1.27" layer="27">&gt;VALUE</text>
+<wire x1="-3.175" y1="0" x2="-3.81" y2="0" width="0.254" layer="21"/>
+<wire x1="-3.48741875" y1="-0.368296875" x2="-3.48741875" y2="0.3556" width="0.254" layer="21"/>
+<wire x1="3.175" y1="0" x2="3.81" y2="0" width="0.254" layer="21"/>
+<wire x1="-3.489959375" y1="0.37591875" x2="-3.48741875" y2="0.373378125" width="0.254" layer="21"/>
+<wire x1="-3.48741875" y1="0.373378125" x2="-3.48741875" y2="-0.370840625" width="0.254" layer="21"/>
+</package>
 </packages>
 <symbols>
 <symbol name="WS2812B">
@@ -201,6 +279,30 @@ source: http://www.world-semi.com/uploads/soft/130904/1_1500205981.pdf</descript
 <wire x1="15.24" y1="7.62" x2="-2.54" y2="7.62" width="0.254" layer="94"/>
 <text x="-2.286" y="8.382" size="1.778" layer="95">&gt;NAME</text>
 <text x="-2.54" y="-7.62" size="1.778" layer="96">&gt;VALUE</text>
+</symbol>
+<symbol name="LED">
+<wire x1="1.27" y1="0" x2="0" y2="-2.54" width="0.254" layer="94"/>
+<wire x1="0" y1="-2.54" x2="-1.27" y2="0" width="0.254" layer="94"/>
+<wire x1="1.27" y1="-2.54" x2="0" y2="-2.54" width="0.254" layer="94"/>
+<wire x1="0" y1="-2.54" x2="-1.27" y2="-2.54" width="0.254" layer="94"/>
+<wire x1="1.27" y1="0" x2="0" y2="0" width="0.254" layer="94"/>
+<wire x1="0" y1="0" x2="-1.27" y2="0" width="0.254" layer="94"/>
+<wire x1="-2.032" y1="-0.762" x2="-3.429" y2="-2.159" width="0.1524" layer="94"/>
+<wire x1="-1.905" y1="-1.905" x2="-3.302" y2="-3.302" width="0.1524" layer="94"/>
+<text x="3.556" y="-4.572" size="1.778" layer="95" rot="R90">&gt;NAME</text>
+<text x="5.715" y="-4.572" size="1.778" layer="96" rot="R90">&gt;VALUE</text>
+<pin name="C" x="0" y="-5.08" visible="off" length="short" direction="pas" rot="R90"/>
+<pin name="A" x="0" y="2.54" visible="off" length="short" direction="pas" rot="R270"/>
+<polygon width="0.1524" layer="94">
+<vertex x="-3.429" y="-2.159"/>
+<vertex x="-3.048" y="-1.27"/>
+<vertex x="-2.54" y="-1.778"/>
+</polygon>
+<polygon width="0.1524" layer="94">
+<vertex x="-3.302" y="-3.302"/>
+<vertex x="-2.921" y="-2.413"/>
+<vertex x="-2.413" y="-2.921"/>
+</polygon>
 </symbol>
 </symbols>
 <devicesets>
@@ -228,6 +330,66 @@ source: http://www.world-semi.com/uploads/soft/130904/1_1500205981.pdf</descript
 </connects>
 <technologies>
 <technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="LED-GREEN" prefix="D" uservalue="yes">
+<description>&lt;B&gt;Various green LEDs&lt;br&gt;&lt;br&gt;&lt;/B&gt;
+Green LEDs used in SFE Production&lt;br&gt;&lt;br&gt;
+0603- DIO-00821&lt;br&gt;
+LARGE- DIO-00862&lt;br&gt;
+LILYPAD- DIO-09910&lt;br&gt;</description>
+<gates>
+<gate name="G$1" symbol="LED" x="0" y="0"/>
+</gates>
+<devices>
+<device name="0603" package="LED-0603">
+<connects>
+<connect gate="G$1" pin="A" pad="A"/>
+<connect gate="G$1" pin="C" pad="C"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="PROD_ID" value="DIO-00821" constant="no"/>
+<attribute name="VALUE" value="GREEN" constant="no"/>
+</technology>
+</technologies>
+</device>
+<device name="LILYPAD" package="LED-1206">
+<connects>
+<connect gate="G$1" pin="A" pad="A"/>
+<connect gate="G$1" pin="C" pad="C"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="PROD_ID" value="DIO-09910"/>
+<attribute name="VALUE" value="GREEN" constant="no"/>
+</technology>
+</technologies>
+</device>
+<device name="1206" package="LED-1206">
+<connects>
+<connect gate="G$1" pin="A" pad="A"/>
+<connect gate="G$1" pin="C" pad="C"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="PROD_ID" value="DIO-00862" constant="no"/>
+<attribute name="VALUE" value="GREEN" constant="no"/>
+</technology>
+</technologies>
+</device>
+<device name="1206-BOTTOM" package="LED-1206-BOTTOM">
+<connects>
+<connect gate="G$1" pin="A" pad="A"/>
+<connect gate="G$1" pin="C" pad="C"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="PROD_ID" value="DIO-11076" constant="no"/>
+<attribute name="VALUE" value="Green" constant="no"/>
+</technology>
 </technologies>
 </device>
 </devices>
@@ -7141,6 +7303,64 @@ It has a reduced top mask to make it harder to install upside-down.</description
 <text x="-2.54" y="-1.27" size="0.4064" layer="25">&gt;NAME</text>
 <text x="0" y="-1.27" size="0.4064" layer="27">&gt;VALUE</text>
 </package>
+<package name="PAD.02X.02">
+<smd name="P$1" x="0" y="0" dx="0.508" dy="0.508" layer="1"/>
+</package>
+<package name="PAD.03X.03">
+<smd name="P$1" x="0" y="0" dx="0.762" dy="0.762" layer="1" roundness="100" cream="no"/>
+</package>
+<package name="PAD.03X.05">
+<smd name="P$1" x="0" y="0" dx="1.27" dy="1.27" layer="1" roundness="100" cream="no"/>
+</package>
+<package name="PAD.03X.04">
+<smd name="P$1" x="0" y="0" dx="1.016" dy="1.016" layer="1" roundness="100" cream="no"/>
+</package>
+<package name="TP_15TH">
+<pad name="P$1" x="0" y="0" drill="0.381" diameter="0.6096" stop="no"/>
+<circle x="0" y="0" radius="0.381" width="0" layer="30"/>
+</package>
+<package name="PAD-JUMPER-2-NO_NO_SILK">
+<smd name="1" x="-0.45" y="0" dx="0.635" dy="1.27" layer="1" cream="no"/>
+<smd name="2" x="0.45" y="0" dx="0.635" dy="1.27" layer="1" cream="no"/>
+<text x="-0.908" y="1.27" size="0.4064" layer="25">&gt;NAME</text>
+<text x="-0.908" y="-1.651" size="0.4064" layer="27">&gt;VALUE</text>
+</package>
+<package name="PAD-JUMPER-2-NO_YES_SILK">
+<description>Small solder jumper with no paste layer so it will open after reflow.</description>
+<wire x1="0.8" y1="-1" x2="-0.8" y2="-1" width="0.2032" layer="21"/>
+<wire x1="0.8" y1="1" x2="1" y2="0.7" width="0.2032" layer="21" curve="-90"/>
+<wire x1="-1" y1="0.7" x2="-0.8" y2="1" width="0.2032" layer="21" curve="-90"/>
+<wire x1="-1" y1="-0.7" x2="-0.8" y2="-1" width="0.2032" layer="21" curve="90"/>
+<wire x1="0.8" y1="-1" x2="1" y2="-0.7" width="0.2032" layer="21" curve="90"/>
+<wire x1="-0.8" y1="1" x2="0.8" y2="1" width="0.2032" layer="21"/>
+<smd name="1" x="-0.45" y="0" dx="0.635" dy="1.27" layer="1" cream="no"/>
+<smd name="2" x="0.45" y="0" dx="0.635" dy="1.27" layer="1" cream="no"/>
+<text x="-0.908" y="1.27" size="0.4064" layer="25">&gt;NAME</text>
+<text x="-0.908" y="-1.651" size="0.4064" layer="27">&gt;VALUE</text>
+</package>
+<package name="PAD-JUMPER-2-NO_YES_SILK_ROUND">
+<smd name="1" x="-1.27" y="0" dx="0.3048" dy="0.1524" layer="1" roundness="20" rot="R270" stop="no" thermals="no" cream="no"/>
+<smd name="2" x="1.27" y="0" dx="0.3048" dy="0.1524" layer="1" roundness="20" rot="R90" stop="no" thermals="no" cream="no"/>
+<text x="-2.8575" y="2.2225" size="1.27" layer="25" ratio="10">&gt;NAME</text>
+<text x="-3.175" y="-3.4925" size="1.27" layer="27">&gt;VALUE</text>
+<polygon width="0.00508125" layer="1">
+<vertex x="0.111125" y="-1.42875" curve="85"/>
+<vertex x="1.381125" y="0" curve="85"/>
+<vertex x="0.111125" y="1.42875"/>
+</polygon>
+<polygon width="0.00508125" layer="1">
+<vertex x="-0.111125" y="1.42875"/>
+<vertex x="-0.111125" y="-1.42875" curve="-85"/>
+<vertex x="-1.381125" y="0" curve="-85"/>
+</polygon>
+<polygon width="0.2032" layer="29">
+<vertex x="0" y="1.42875" curve="-90"/>
+<vertex x="1.42875" y="0" curve="-90"/>
+<vertex x="0" y="-1.42875" curve="-90"/>
+<vertex x="-1.42875" y="0" curve="-90"/>
+</polygon>
+<circle x="0" y="0" radius="1.74625" width="0.2032" layer="21"/>
+</package>
 </packages>
 <symbols>
 <symbol name="RESISTOR">
@@ -7167,6 +7387,23 @@ It has a reduced top mask to make it harder to install upside-down.</description
 <text x="5.715" y="0" size="1.778" layer="96" rot="R90">&gt;VALUE</text>
 <pin name="1" x="0" y="-2.54" visible="pad" length="short" direction="pas" rot="R90"/>
 <pin name="2" x="2.54" y="-2.54" visible="pad" length="short" direction="pas" rot="R90"/>
+</symbol>
+<symbol name="TEST-POINT">
+<wire x1="2.54" y1="0" x2="0" y2="0" width="0.1524" layer="94"/>
+<wire x1="3.302" y1="0.762" x2="3.302" y2="-0.762" width="0.1524" layer="94" curve="180"/>
+<text x="-2.54" y="2.54" size="1.778" layer="95">&gt;Name</text>
+<text x="-2.54" y="-2.54" size="1.778" layer="96">&gt;Value</text>
+<pin name="1" x="0" y="0" visible="off" length="point" rot="R180"/>
+</symbol>
+<symbol name="PAD-JUMPER-2-NO">
+<wire x1="0.381" y1="0.635" x2="0.381" y2="-0.635" width="1.27" layer="94" curve="-180" cap="flat"/>
+<wire x1="-0.381" y1="-0.635" x2="-0.381" y2="0.635" width="1.27" layer="94" curve="-180" cap="flat"/>
+<wire x1="2.54" y1="0" x2="1.651" y2="0" width="0.1524" layer="94"/>
+<wire x1="-2.54" y1="0" x2="-1.651" y2="0" width="0.1524" layer="94"/>
+<text x="-2.54" y="2.54" size="1.778" layer="95">&gt;NAME</text>
+<text x="-2.54" y="-5.08" size="1.778" layer="96">&gt;VALUE</text>
+<pin name="2" x="5.08" y="0" visible="off" length="short" direction="pas" swaplevel="1" rot="R180"/>
+<pin name="1" x="-5.08" y="0" visible="off" length="short" direction="pas" swaplevel="1"/>
 </symbol>
 </symbols>
 <devicesets>
@@ -7311,6 +7548,88 @@ Basic schematic elements and footprints for 0603, 1206, and PTH resistors.</desc
 </gates>
 <devices>
 <device name="" package="PTH-JUMPER-2-NO_NO_SILK">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="TEST-POINT" prefix="TP">
+<description>Bare copper test points for troubleshooting or ICT</description>
+<gates>
+<gate name="G$1" symbol="TEST-POINT" x="0" y="0"/>
+</gates>
+<devices>
+<device name="2" package="PAD.02X.02">
+<connects>
+<connect gate="G$1" pin="1" pad="P$1"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="3" package="PAD.03X.03">
+<connects>
+<connect gate="G$1" pin="1" pad="P$1"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="3X5" package="PAD.03X.05">
+<connects>
+<connect gate="G$1" pin="1" pad="P$1"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="3X4" package="PAD.03X.04">
+<connects>
+<connect gate="G$1" pin="1" pad="P$1"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="TP_15TH_THRU" package="TP_15TH">
+<connects>
+<connect gate="G$1" pin="1" pad="P$1"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="JUMPER-PAD-2-NO" prefix="JP">
+<gates>
+<gate name="G$1" symbol="PAD-JUMPER-2-NO" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="PAD-JUMPER-2-NO_NO_SILK">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="YES_SILK" package="PAD-JUMPER-2-NO_YES_SILK">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="ROUND" package="PAD-JUMPER-2-NO_YES_SILK_ROUND">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -7499,6 +7818,42 @@ Basic schematic elements and footprints for 0603, 1206, and PTH resistors.</desc
 <text x="-1.1" y="-1.284" size="0.4064" layer="27">&gt;VALUE</text>
 <rectangle x1="-0.7" y1="-0.7" x2="-0.5" y2="0.7" layer="21"/>
 </package>
+<package name="1812">
+<description>Multilayer SMD</description>
+<wire x1="-2.3" y1="0" x2="2.4" y2="0" width="0.127" layer="51"/>
+<wire x1="-2.8004" y1="1.7113" x2="2.8004" y2="1.7113" width="0.127" layer="21"/>
+<wire x1="2.8004" y1="1.7113" x2="2.8004" y2="-1.7113" width="0.127" layer="51"/>
+<wire x1="2.8004" y1="-1.7113" x2="-2.8004" y2="-1.7113" width="0.127" layer="21"/>
+<wire x1="-2.8004" y1="-1.7113" x2="-2.8004" y2="1.7113" width="0.127" layer="51"/>
+<wire x1="-1.7" y1="0" x2="1.7" y2="0" width="0.127" layer="51"/>
+<wire x1="-1.6" y1="0.8" x2="1.6" y2="0.8" width="0.07" layer="21"/>
+<wire x1="1.6" y1="0.8" x2="1.6" y2="-0.8" width="0.07" layer="51"/>
+<wire x1="1.6" y1="-0.8" x2="-1.6" y2="-0.8" width="0.07" layer="21"/>
+<wire x1="-1.6" y1="-0.8" x2="-1.6" y2="0.8" width="0.07" layer="51"/>
+<smd name="1" x="-2.046" y="0" dx="2.286" dy="2.794" layer="1"/>
+<smd name="2" x="2.046" y="0" dx="2.286" dy="2.794" layer="1"/>
+<text x="-1.8575" y="1.905" size="0.6096" layer="27">&gt;VALUE</text>
+<text x="-1.8575" y="-2.54" size="0.6096" layer="25">&gt;NAME</text>
+<rectangle x1="-0.9" y1="-0.3" x2="0.9" y2="0.3" layer="21"/>
+<rectangle x1="-0.6" y1="-0.3" x2="0.5" y2="0.3" layer="21"/>
+</package>
+<package name="R1206">
+<description>&lt;b&gt;RESISTOR&lt;/b&gt;&lt;p&gt;
+chip</description>
+<wire x1="0.9525" y1="-0.8128" x2="-0.9652" y2="-0.8128" width="0.1524" layer="51"/>
+<wire x1="0.9525" y1="0.8128" x2="-0.9652" y2="0.8128" width="0.1524" layer="51"/>
+<wire x1="-2.473" y1="0.983" x2="2.473" y2="0.983" width="0.0508" layer="39"/>
+<wire x1="2.473" y1="0.983" x2="2.473" y2="-0.983" width="0.0508" layer="39"/>
+<wire x1="2.473" y1="-0.983" x2="-2.473" y2="-0.983" width="0.0508" layer="39"/>
+<wire x1="-2.473" y1="-0.983" x2="-2.473" y2="0.983" width="0.0508" layer="39"/>
+<smd name="2" x="1.422" y="0" dx="1.6" dy="1.803" layer="1"/>
+<smd name="1" x="-1.422" y="0" dx="1.6" dy="1.803" layer="1"/>
+<text x="-1.397" y="1.143" size="1.27" layer="25">&gt;NAME</text>
+<text x="-1.397" y="-2.413" size="1.27" layer="27">&gt;VALUE</text>
+<rectangle x1="-1.6891" y1="-0.8763" x2="-0.9525" y2="0.8763" layer="51"/>
+<rectangle x1="0.9525" y1="-0.8763" x2="1.6891" y2="0.8763" layer="51"/>
+<rectangle x1="-0.3" y1="-0.7" x2="0.3" y2="0.7" layer="35"/>
+</package>
 </packages>
 <symbols>
 <symbol name="PNA460XM">
@@ -7525,6 +7880,14 @@ Basic schematic elements and footprints for 0603, 1206, and PTH resistors.</desc
 <text x="-2.54" y="-3.81" size="1.27" layer="96">&gt;VALUE</text>
 <pin name="A" x="-2.54" y="0" visible="off" length="short" direction="pas"/>
 <pin name="C" x="2.54" y="0" visible="off" length="short" direction="pas" rot="R180"/>
+</symbol>
+<symbol name="FUSE">
+<wire x1="-2.54" y1="2.54" x2="0" y2="2.54" width="0.254" layer="94" curve="-126.869898"/>
+<wire x1="0" y1="2.54" x2="2.54" y2="2.54" width="0.254" layer="94" curve="180"/>
+<text x="-3.81" y="-1.27" size="1.778" layer="96">&gt;VALUE</text>
+<text x="-3.81" y="5.08" size="1.778" layer="95">&gt;NAME</text>
+<pin name="1" x="-5.08" y="2.54" visible="off" length="short" direction="pas" swaplevel="1"/>
+<pin name="2" x="5.08" y="2.54" visible="off" length="short" direction="pas" swaplevel="1" rot="R180"/>
 </symbol>
 </symbols>
 <devicesets>
@@ -7645,6 +8008,32 @@ PNA4602 and related receivers
 <connects>
 <connect gate="G$1" pin="A" pad="A"/>
 <connect gate="G$1" pin="C" pad="C"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="PTCFUSE" prefix="F" uservalue="yes">
+<description>PTC fuses, resettable thermistors</description>
+<gates>
+<gate name="G$1" symbol="FUSE" x="0" y="2.54"/>
+</gates>
+<devices>
+<device name="-1812" package="1812">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="-1206" package="R1206">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <technologies>
 <technology name=""/>
@@ -10136,6 +10525,36 @@ These are standard reverse protection diodes and small signal diodes. SMA packag
 <part name="GND23" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="JP2" library="SparkFun-Passives" deviceset="JUMPER-PTH-2-NO" device="" value="Battery 2 Enable"/>
 <part name="JP1" library="SparkFun-Passives" deviceset="JUMPER-PTH-2-NO" device="" value="Battery 1 Enable"/>
+<part name="F1" library="adafruit" deviceset="PTCFUSE" device="-1812" value="1.5A Hold"/>
+<part name="F2" library="adafruit" deviceset="PTCFUSE" device="-1812" value="1.5A Hold"/>
+<part name="TP1" library="SparkFun-Passives" deviceset="TEST-POINT" device="TP_15TH_THRU" value="IR Data"/>
+<part name="TP2" library="SparkFun-Passives" deviceset="TEST-POINT" device="TP_15TH_THRU" value="LED Data In BATT"/>
+<part name="TP4" library="SparkFun-Passives" deviceset="TEST-POINT" device="TP_15TH_THRU" value="LED Data Out"/>
+<part name="TP3" library="SparkFun-Passives" deviceset="TEST-POINT" device="TP_15TH_THRU" value="LED Data In 5V"/>
+<part name="TP5" library="SparkFun-Passives" deviceset="TEST-POINT" device="TP_15TH_THRU" value="5V Enable"/>
+<part name="TP6" library="SparkFun-Passives" deviceset="TEST-POINT" device="TP_15TH_THRU" value="5V Power Good"/>
+<part name="TP7" library="SparkFun-Passives" deviceset="TEST-POINT" device="TP_15TH_THRU" value="Solar Level"/>
+<part name="TP8" library="SparkFun-Passives" deviceset="TEST-POINT" device="TP_15TH_THRU" value="Batery Level"/>
+<part name="TP9" library="SparkFun-Passives" deviceset="TEST-POINT" device="TP_15TH_THRU" value="Charger !CHARGE"/>
+<part name="TP10" library="SparkFun-Passives" deviceset="TEST-POINT" device="TP_15TH_THRU" value="Charger !FAULT"/>
+<part name="TP11" library="SparkFun-Passives" deviceset="TEST-POINT" device="TP_15TH_THRU" value="VBATT"/>
+<part name="TP12" library="SparkFun-Passives" deviceset="TEST-POINT" device="TP_15TH_THRU" value="+5V"/>
+<part name="TP13" library="SparkFun-Passives" deviceset="TEST-POINT" device="TP_15TH_THRU" value="GND"/>
+<part name="TP14" library="SparkFun-Passives" deviceset="TEST-POINT" device="TP_15TH_THRU" value="GND"/>
+<part name="GND24" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
+<part name="GND25" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
+<part name="SUPPLY17" library="SparkFun-Aesthetics" deviceset="V_BATT" device=""/>
+<part name="SUPPLY18" library="SparkFun-Aesthetics" deviceset="5V" device=""/>
+<part name="LED19" library="SparkFun-LED" deviceset="LED-GREEN" device="1206" value="VBATT"/>
+<part name="LED20" library="SparkFun-LED" deviceset="LED-GREEN" device="1206" value="+5V"/>
+<part name="LED21" library="SparkFun-LED" deviceset="LED-GREEN" device="1206" value="Solar"/>
+<part name="JP3" library="SparkFun-Passives" deviceset="JUMPER-PAD-2-NO" device="YES_SILK" value="LEDs Enabled"/>
+<part name="GND26" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
+<part name="R11" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="680"/>
+<part name="R12" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="680"/>
+<part name="R13" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="1k"/>
+<part name="SUPPLY19" library="SparkFun-Aesthetics" deviceset="V_BATT" device=""/>
+<part name="SUPPLY20" library="SparkFun-Aesthetics" deviceset="5V" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -10158,8 +10577,8 @@ These are standard reverse protection diodes and small signal diodes. SMA packag
 <instance part="FRAME2" gate="G$2" x="173.99" y="0">
 <attribute name="REV" x="173.99" y="0" size="1.27" layer="96" display="off"/>
 </instance>
-<instance part="J1" gate="G$1" x="226.06" y="172.72"/>
-<instance part="GND16" gate="1" x="238.76" y="165.1"/>
+<instance part="J1" gate="G$1" x="241.3" y="157.48"/>
+<instance part="GND16" gate="1" x="254" y="149.86"/>
 <instance part="SUPPLY6" gate="G$1" x="50.8" y="124.46" smashed="yes" rot="R90">
 <attribute name="VALUE" x="48.26" y="125.222" size="1.778" layer="96" rot="R180"/>
 </instance>
@@ -10198,6 +10617,70 @@ These are standard reverse protection diodes and small signal diodes. SMA packag
 <attribute name="VALUE" x="101.6" y="88.9" size="1.778" layer="96"/>
 </instance>
 <instance part="GND23" gate="1" x="132.08" y="86.36"/>
+<instance part="TP1" gate="G$1" x="144.78" y="157.48" smashed="yes" rot="R270">
+<attribute name="NAME" x="145.288" y="160.274" size="1.27" layer="95" rot="R270"/>
+<attribute name="VALUE" x="141.986" y="160.274" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="TP2" gate="G$1" x="149.86" y="157.48" smashed="yes" rot="R270">
+<attribute name="NAME" x="150.368" y="160.274" size="1.27" layer="95" rot="R270"/>
+<attribute name="VALUE" x="147.066" y="160.274" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="TP4" gate="G$1" x="160.02" y="157.48" smashed="yes" rot="R270">
+<attribute name="NAME" x="160.528" y="160.274" size="1.27" layer="95" rot="R270"/>
+<attribute name="VALUE" x="157.226" y="160.274" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="TP3" gate="G$1" x="154.94" y="157.48" smashed="yes" rot="R270">
+<attribute name="NAME" x="155.448" y="160.274" size="1.27" layer="95" rot="R270"/>
+<attribute name="VALUE" x="152.146" y="160.274" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="TP5" gate="G$1" x="165.1" y="157.48" smashed="yes" rot="R270">
+<attribute name="NAME" x="165.608" y="160.274" size="1.27" layer="95" rot="R270"/>
+<attribute name="VALUE" x="162.306" y="160.274" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="TP6" gate="G$1" x="170.18" y="157.48" smashed="yes" rot="R270">
+<attribute name="NAME" x="170.688" y="160.274" size="1.27" layer="95" rot="R270"/>
+<attribute name="VALUE" x="167.386" y="160.274" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="TP7" gate="G$1" x="175.26" y="157.48" smashed="yes" rot="R270">
+<attribute name="NAME" x="175.768" y="160.274" size="1.27" layer="95" rot="R270"/>
+<attribute name="VALUE" x="172.466" y="160.274" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="TP8" gate="G$1" x="180.34" y="157.48" smashed="yes" rot="R270">
+<attribute name="NAME" x="180.848" y="160.274" size="1.27" layer="95" rot="R270"/>
+<attribute name="VALUE" x="177.546" y="160.274" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="TP9" gate="G$1" x="185.42" y="157.48" smashed="yes" rot="R270">
+<attribute name="NAME" x="185.928" y="160.274" size="1.27" layer="95" rot="R270"/>
+<attribute name="VALUE" x="182.626" y="160.274" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="TP10" gate="G$1" x="190.5" y="157.48" smashed="yes" rot="R270">
+<attribute name="NAME" x="191.008" y="160.274" size="1.27" layer="95" rot="R270"/>
+<attribute name="VALUE" x="187.706" y="160.274" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="TP11" gate="G$1" x="195.58" y="157.48" smashed="yes" rot="R270">
+<attribute name="NAME" x="196.088" y="160.274" size="1.27" layer="95" rot="R270"/>
+<attribute name="VALUE" x="192.786" y="160.274" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="TP12" gate="G$1" x="200.66" y="157.48" smashed="yes" rot="R270">
+<attribute name="NAME" x="201.168" y="160.274" size="1.27" layer="95" rot="R270"/>
+<attribute name="VALUE" x="197.866" y="160.274" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="TP13" gate="G$1" x="205.74" y="157.48" smashed="yes" rot="R270">
+<attribute name="NAME" x="206.248" y="160.274" size="1.27" layer="95" rot="R270"/>
+<attribute name="VALUE" x="202.946" y="160.274" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="TP14" gate="G$1" x="210.82" y="157.48" smashed="yes" rot="R270">
+<attribute name="NAME" x="211.328" y="160.274" size="1.27" layer="95" rot="R270"/>
+<attribute name="VALUE" x="208.026" y="160.274" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="GND24" gate="1" x="210.82" y="165.1" rot="R180"/>
+<instance part="GND25" gate="1" x="205.74" y="165.1" rot="R180"/>
+<instance part="SUPPLY17" gate="G$1" x="195.58" y="162.56" smashed="yes">
+<attribute name="VALUE" x="196.342" y="166.116" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="SUPPLY18" gate="G$1" x="200.66" y="162.56" smashed="yes">
+<attribute name="VALUE" x="201.422" y="166.116" size="1.778" layer="96" rot="R90"/>
+</instance>
 </instances>
 <busses>
 </busses>
@@ -10234,8 +10717,8 @@ These are standard reverse protection diodes and small signal diodes. SMA packag
 </segment>
 <segment>
 <pinref part="J1" gate="G$1" pin="6"/>
-<wire x1="236.22" y1="170.18" x2="238.76" y2="170.18" width="0.1524" layer="91"/>
-<wire x1="238.76" y1="170.18" x2="238.76" y2="167.64" width="0.1524" layer="91"/>
+<wire x1="251.46" y1="154.94" x2="254" y2="154.94" width="0.1524" layer="91"/>
+<wire x1="254" y1="154.94" x2="254" y2="152.4" width="0.1524" layer="91"/>
 <pinref part="GND16" gate="1" pin="GND"/>
 </segment>
 <segment>
@@ -10281,6 +10764,16 @@ These are standard reverse protection diodes and small signal diodes. SMA packag
 <pinref part="GND23" gate="1" pin="GND"/>
 <wire x1="119.38" y1="91.44" x2="132.08" y2="91.44" width="0.1524" layer="91"/>
 <wire x1="132.08" y1="91.44" x2="132.08" y2="88.9" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="GND25" gate="1" pin="GND"/>
+<pinref part="TP13" gate="G$1" pin="1"/>
+<wire x1="205.74" y1="162.56" x2="205.74" y2="157.48" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="TP14" gate="G$1" pin="1"/>
+<pinref part="GND24" gate="1" pin="GND"/>
+<wire x1="210.82" y1="157.48" x2="210.82" y2="162.56" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="RS232-RX" class="0">
@@ -10335,8 +10828,8 @@ These are standard reverse protection diodes and small signal diodes. SMA packag
 </segment>
 <segment>
 <pinref part="J1" gate="G$1" pin="5"/>
-<wire x1="218.44" y1="170.18" x2="213.36" y2="170.18" width="0.1524" layer="91"/>
-<label x="213.36" y="170.18" size="1.27" layer="95" rot="R180" xref="yes"/>
+<wire x1="233.68" y1="154.94" x2="228.6" y2="154.94" width="0.1524" layer="91"/>
+<label x="228.6" y="154.94" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="IR_DATA" class="0">
@@ -10350,12 +10843,22 @@ These are standard reverse protection diodes and small signal diodes. SMA packag
 <wire x1="68.58" y1="157.48" x2="66.04" y2="157.48" width="0.1524" layer="91"/>
 <label x="66.04" y="157.48" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
+<segment>
+<pinref part="TP1" gate="G$1" pin="1"/>
+<wire x1="144.78" y1="157.48" x2="144.78" y2="162.56" width="0.1524" layer="91"/>
+<label x="144.78" y="162.56" size="1.27" layer="95" rot="R90" xref="yes"/>
+</segment>
 </net>
 <net name="CHGSTAT_!CHARGE" class="0">
 <segment>
 <label x="106.68" y="101.6" size="1.27" layer="95" xref="yes"/>
 <pinref part="U3" gate="G$1" pin="PD3(INT1)"/>
 <wire x1="104.14" y1="101.6" x2="106.68" y2="101.6" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="TP9" gate="G$1" pin="1"/>
+<wire x1="185.42" y1="162.56" x2="185.42" y2="157.48" width="0.1524" layer="91"/>
+<label x="185.42" y="162.56" size="1.27" layer="95" rot="R90" xref="yes"/>
 </segment>
 </net>
 <net name="CHGSTAT_!FAULT" class="0">
@@ -10364,12 +10867,22 @@ These are standard reverse protection diodes and small signal diodes. SMA packag
 <pinref part="U3" gate="G$1" pin="PD4(XCK/T0)"/>
 <wire x1="106.68" y1="99.06" x2="104.14" y2="99.06" width="0.1524" layer="91"/>
 </segment>
+<segment>
+<pinref part="TP10" gate="G$1" pin="1"/>
+<wire x1="190.5" y1="157.48" x2="190.5" y2="162.56" width="0.1524" layer="91"/>
+<label x="190.5" y="162.56" size="1.27" layer="95" rot="R90" xref="yes"/>
+</segment>
 </net>
 <net name="VREG_EN" class="0">
 <segment>
 <pinref part="U3" gate="G$1" pin="PB1(OC1A)"/>
 <wire x1="104.14" y1="83.82" x2="106.68" y2="83.82" width="0.1524" layer="91"/>
 <label x="106.68" y="83.82" size="1.27" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="TP5" gate="G$1" pin="1"/>
+<wire x1="165.1" y1="162.56" x2="165.1" y2="157.48" width="0.1524" layer="91"/>
+<label x="165.1" y="162.56" size="1.27" layer="95" rot="R90" xref="yes"/>
 </segment>
 </net>
 <net name="VREG_PG" class="0">
@@ -10378,12 +10891,17 @@ These are standard reverse protection diodes and small signal diodes. SMA packag
 <wire x1="104.14" y1="81.28" x2="106.68" y2="81.28" width="0.1524" layer="91"/>
 <label x="106.68" y="81.28" size="1.27" layer="95" xref="yes"/>
 </segment>
+<segment>
+<pinref part="TP6" gate="G$1" pin="1"/>
+<wire x1="170.18" y1="157.48" x2="170.18" y2="162.56" width="0.1524" layer="91"/>
+<label x="170.18" y="162.56" size="1.27" layer="95" rot="R90" xref="yes"/>
+</segment>
 </net>
 <net name="MOSI" class="0">
 <segment>
 <pinref part="J1" gate="G$1" pin="4"/>
-<wire x1="236.22" y1="172.72" x2="238.76" y2="172.72" width="0.1524" layer="91"/>
-<label x="238.76" y="172.72" size="1.27" layer="95" xref="yes"/>
+<wire x1="251.46" y1="157.48" x2="254" y2="157.48" width="0.1524" layer="91"/>
+<label x="254" y="157.48" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="U3" gate="G$1" pin="PB3(MOSI/OC2)"/>
@@ -10394,8 +10912,8 @@ These are standard reverse protection diodes and small signal diodes. SMA packag
 <net name="SCK" class="0">
 <segment>
 <pinref part="J1" gate="G$1" pin="3"/>
-<wire x1="218.44" y1="172.72" x2="213.36" y2="172.72" width="0.1524" layer="91"/>
-<label x="213.36" y="172.72" size="1.27" layer="95" rot="R180" xref="yes"/>
+<wire x1="233.68" y1="157.48" x2="228.6" y2="157.48" width="0.1524" layer="91"/>
+<label x="228.6" y="157.48" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
 <pinref part="U3" gate="G$1" pin="PB5(SCK)"/>
@@ -10406,8 +10924,8 @@ These are standard reverse protection diodes and small signal diodes. SMA packag
 <net name="MISO" class="0">
 <segment>
 <pinref part="J1" gate="G$1" pin="1"/>
-<wire x1="218.44" y1="175.26" x2="213.36" y2="175.26" width="0.1524" layer="91"/>
-<label x="213.36" y="175.26" size="1.27" layer="95" rot="R180" xref="yes"/>
+<wire x1="233.68" y1="160.02" x2="228.6" y2="160.02" width="0.1524" layer="91"/>
+<label x="228.6" y="160.02" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
 <pinref part="U3" gate="G$1" pin="PB4(MISO)"/>
@@ -10465,6 +10983,11 @@ These are standard reverse protection diodes and small signal diodes. SMA packag
 <wire x1="231.14" y1="76.2" x2="231.14" y2="78.74" width="0.1524" layer="91"/>
 <pinref part="SUPPLY13" gate="G$1" pin="V_BATT"/>
 </segment>
+<segment>
+<pinref part="TP11" gate="G$1" pin="1"/>
+<wire x1="195.58" y1="162.56" x2="195.58" y2="157.48" width="0.1524" layer="91"/>
+<pinref part="SUPPLY17" gate="G$1" pin="V_BATT"/>
+</segment>
 </net>
 <net name="LEDDAT_IN-5V" class="0">
 <segment>
@@ -10472,12 +10995,23 @@ These are standard reverse protection diodes and small signal diodes. SMA packag
 <wire x1="165.1" y1="96.52" x2="167.64" y2="96.52" width="0.1524" layer="91"/>
 <label x="167.64" y="96.52" size="1.27" layer="95" xref="yes"/>
 </segment>
+<segment>
+<pinref part="TP3" gate="G$1" pin="1"/>
+<wire x1="154.94" y1="162.56" x2="154.94" y2="157.48" width="0.1524" layer="91"/>
+<label x="154.94" y="162.56" size="1.27" layer="95" rot="R90" xref="yes"/>
+</segment>
 </net>
 <net name="LEDDAT_IN-BATT" class="0">
 <segment>
 <pinref part="U3" gate="G$1" pin="PD5(T1)"/>
 <pinref part="U5" gate="G$1" pin="A"/>
 <wire x1="134.62" y1="96.52" x2="104.14" y2="96.52" width="0.1524" layer="91"/>
+<label x="118.11" y="94.996" size="1.27" layer="95"/>
+</segment>
+<segment>
+<pinref part="TP2" gate="G$1" pin="1"/>
+<wire x1="149.86" y1="157.48" x2="149.86" y2="162.56" width="0.1524" layer="91"/>
+<label x="149.86" y="162.56" size="1.27" layer="95" rot="R90" xref="yes"/>
 </segment>
 </net>
 <net name="5V" class="0">
@@ -10492,6 +11026,11 @@ These are standard reverse protection diodes and small signal diodes. SMA packag
 <pinref part="C29" gate="G$1" pin="1"/>
 <wire x1="243.84" y1="81.28" x2="243.84" y2="76.2" width="0.1524" layer="91"/>
 </segment>
+<segment>
+<pinref part="TP12" gate="G$1" pin="1"/>
+<wire x1="200.66" y1="157.48" x2="200.66" y2="162.56" width="0.1524" layer="91"/>
+<pinref part="SUPPLY18" gate="G$1" pin="5V"/>
+</segment>
 </net>
 <net name="SOLAR_LVL" class="0">
 <segment>
@@ -10502,6 +11041,12 @@ These are standard reverse protection diodes and small signal diodes. SMA packag
 <junction x="121.92" y="129.54"/>
 <pinref part="U3" gate="G$1" pin="PC1(ADC1)"/>
 <wire x1="104.14" y1="129.54" x2="121.92" y2="129.54" width="0.1524" layer="91"/>
+<label x="118.11" y="129.032" size="1.27" layer="95" rot="R180"/>
+</segment>
+<segment>
+<pinref part="TP7" gate="G$1" pin="1"/>
+<wire x1="175.26" y1="162.56" x2="175.26" y2="157.48" width="0.1524" layer="91"/>
+<label x="175.26" y="162.56" size="1.27" layer="95" rot="R90" xref="yes"/>
 </segment>
 </net>
 <net name="SOLAR_IN" class="0">
@@ -10523,6 +11068,12 @@ These are standard reverse protection diodes and small signal diodes. SMA packag
 <wire x1="111.76" y1="152.4" x2="106.68" y2="152.4" width="0.1524" layer="91"/>
 <wire x1="106.68" y1="152.4" x2="106.68" y2="137.16" width="0.1524" layer="91"/>
 <junction x="111.76" y="152.4"/>
+<label x="105.918" y="138.43" size="1.27" layer="95" rot="R90"/>
+</segment>
+<segment>
+<pinref part="TP8" gate="G$1" pin="1"/>
+<wire x1="180.34" y1="157.48" x2="180.34" y2="162.56" width="0.1524" layer="91"/>
+<label x="180.34" y="162.56" size="1.27" layer="95" rot="R90" xref="yes"/>
 </segment>
 </net>
 <net name="BATTMON_EN" class="0">
@@ -10545,11 +11096,18 @@ These are standard reverse protection diodes and small signal diodes. SMA packag
 <wire x1="50.8" y1="116.84" x2="50.8" y2="114.3" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$1" class="0">
+<net name="SET_LIGHT_THRESH" class="0">
 <segment>
 <pinref part="SW2" gate="G$1" pin="1"/>
 <pinref part="U3" gate="G$1" pin="PD7(AIN1)"/>
 <wire x1="109.22" y1="91.44" x2="104.14" y2="91.44" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="LEDDAT_OUT" class="0">
+<segment>
+<pinref part="TP4" gate="G$1" pin="1"/>
+<wire x1="160.02" y1="157.48" x2="160.02" y2="162.56" width="0.1524" layer="91"/>
+<label x="160.02" y="162.56" size="1.27" layer="95" rot="R90" xref="yes"/>
 </segment>
 </net>
 </nets>
@@ -10564,18 +11122,18 @@ These are standard reverse protection diodes and small signal diodes. SMA packag
 <attribute name="REV" x="173.99" y="0" size="1.27" layer="96" display="off"/>
 </instance>
 <instance part="U1" gate="G$1" x="134.62" y="139.7"/>
-<instance part="BAT1" gate="G$1" x="63.5" y="81.28" smashed="yes" rot="R270">
-<attribute name="NAME" x="68.58" y="85.09" size="1.778" layer="95" rot="R270"/>
-<attribute name="VALUE" x="57.15" y="90.17" size="1.778" layer="96" rot="R270"/>
+<instance part="BAT1" gate="G$1" x="63.5" y="71.12" smashed="yes" rot="R270">
+<attribute name="NAME" x="68.58" y="74.93" size="1.778" layer="95" rot="R270"/>
+<attribute name="VALUE" x="57.15" y="80.01" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="BAT2" gate="G$1" x="78.74" y="81.28" smashed="yes" rot="MR270">
-<attribute name="NAME" x="73.66" y="85.09" size="1.778" layer="95" rot="MR270"/>
-<attribute name="VALUE" x="85.09" y="90.17" size="1.778" layer="96" rot="MR270"/>
+<instance part="BAT2" gate="G$1" x="78.74" y="71.12" smashed="yes" rot="MR270">
+<attribute name="NAME" x="73.66" y="74.93" size="1.778" layer="95" rot="MR270"/>
+<attribute name="VALUE" x="85.09" y="80.01" size="1.778" layer="96" rot="MR270"/>
 </instance>
 <instance part="SUPPLY9" gate="G$1" x="71.12" y="101.6" smashed="yes">
 <attribute name="VALUE" x="66.548" y="105.156" size="1.778" layer="96"/>
 </instance>
-<instance part="GND9" gate="1" x="71.12" y="68.58"/>
+<instance part="GND9" gate="1" x="71.12" y="58.42"/>
 <instance part="CN1" gate="G$1" x="71.12" y="119.38"/>
 <instance part="GND10" gate="1" x="78.74" y="114.3"/>
 <instance part="C20" gate="G$1" x="81.28" y="124.46"/>
@@ -10614,6 +11172,25 @@ These are standard reverse protection diodes and small signal diodes. SMA packag
 <instance part="C24" gate="G$1" x="180.34" y="71.12" rot="MR0"/>
 <instance part="JP2" gate="G$1" x="83.82" y="96.52" rot="R270"/>
 <instance part="JP1" gate="G$1" x="58.42" y="96.52" rot="MR270"/>
+<instance part="F1" gate="G$1" x="66.04" y="83.82" rot="R90"/>
+<instance part="F2" gate="G$1" x="81.28" y="83.82" rot="R90"/>
+<instance part="LED19" gate="G$1" x="101.6" y="40.64"/>
+<instance part="LED20" gate="G$1" x="111.76" y="40.64"/>
+<instance part="LED21" gate="G$1" x="121.92" y="40.64"/>
+<instance part="JP3" gate="G$1" x="111.76" y="25.4" smashed="yes" rot="R90">
+<attribute name="NAME" x="109.728" y="22.86" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="116.332" y="13.716" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="GND26" gate="1" x="111.76" y="15.24"/>
+<instance part="R11" gate="G$1" x="101.6" y="50.8" rot="R90"/>
+<instance part="R12" gate="G$1" x="111.76" y="50.8" rot="R90"/>
+<instance part="R13" gate="G$1" x="121.92" y="50.8" rot="R90"/>
+<instance part="SUPPLY19" gate="G$1" x="101.6" y="58.42" smashed="yes">
+<attribute name="VALUE" x="97.028" y="61.976" size="1.778" layer="96"/>
+</instance>
+<instance part="SUPPLY20" gate="G$1" x="111.76" y="58.42" smashed="yes">
+<attribute name="VALUE" x="110.49" y="61.976" size="1.778" layer="96"/>
+</instance>
 </instances>
 <busses>
 </busses>
@@ -10659,18 +11236,23 @@ These are standard reverse protection diodes and small signal diodes. SMA packag
 <wire x1="60.96" y1="96.52" x2="71.12" y2="96.52" width="0.1524" layer="91"/>
 <junction x="71.12" y="96.52"/>
 </segment>
+<segment>
+<pinref part="R11" gate="G$1" pin="2"/>
+<pinref part="SUPPLY19" gate="G$1" pin="V_BATT"/>
+<wire x1="101.6" y1="58.42" x2="101.6" y2="55.88" width="0.1524" layer="91"/>
+</segment>
 </net>
 <net name="GND" class="0">
 <segment>
-<wire x1="63.5" y1="73.66" x2="71.12" y2="73.66" width="0.1524" layer="91"/>
-<wire x1="71.12" y1="73.66" x2="78.74" y2="73.66" width="0.1524" layer="91"/>
-<wire x1="71.12" y1="73.66" x2="71.12" y2="71.12" width="0.1524" layer="91"/>
-<junction x="71.12" y="73.66"/>
+<wire x1="63.5" y1="63.5" x2="71.12" y2="63.5" width="0.1524" layer="91"/>
+<wire x1="71.12" y1="63.5" x2="78.74" y2="63.5" width="0.1524" layer="91"/>
+<wire x1="71.12" y1="63.5" x2="71.12" y2="60.96" width="0.1524" layer="91"/>
+<junction x="71.12" y="63.5"/>
 <pinref part="GND9" gate="1" pin="GND"/>
 <pinref part="BAT2" gate="G$1" pin="-"/>
-<wire x1="78.74" y1="76.2" x2="78.74" y2="73.66" width="0.1524" layer="91"/>
+<wire x1="78.74" y1="66.04" x2="78.74" y2="63.5" width="0.1524" layer="91"/>
 <pinref part="BAT1" gate="G$1" pin="-"/>
-<wire x1="63.5" y1="73.66" x2="63.5" y2="76.2" width="0.1524" layer="91"/>
+<wire x1="63.5" y1="63.5" x2="63.5" y2="66.04" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="CN1" gate="G$1" pin="GND"/>
@@ -10723,6 +11305,11 @@ These are standard reverse protection diodes and small signal diodes. SMA packag
 <wire x1="162.56" y1="66.04" x2="180.34" y2="66.04" width="0.1524" layer="91"/>
 <wire x1="180.34" y1="66.04" x2="180.34" y2="68.58" width="0.1524" layer="91"/>
 </segment>
+<segment>
+<pinref part="JP3" gate="G$1" pin="1"/>
+<wire x1="111.76" y1="20.32" x2="111.76" y2="17.78" width="0.1524" layer="91"/>
+<pinref part="GND26" gate="1" pin="GND"/>
+</segment>
 </net>
 <net name="SOLAR_IN" class="0">
 <segment>
@@ -10749,6 +11336,11 @@ These are standard reverse protection diodes and small signal diodes. SMA packag
 <wire x1="129.54" y1="157.48" x2="127" y2="157.48" width="0.1524" layer="91"/>
 <wire x1="127" y1="157.48" x2="127" y2="162.56" width="0.1524" layer="91"/>
 <junction x="127" y="162.56"/>
+</segment>
+<segment>
+<pinref part="R13" gate="G$1" pin="2"/>
+<wire x1="121.92" y1="58.42" x2="121.92" y2="55.88" width="0.1524" layer="91"/>
+<label x="121.92" y="58.42" size="1.27" layer="95" rot="R90" xref="yes"/>
 </segment>
 </net>
 <net name="CHGSTAT_!CHARGE" class="0">
@@ -10861,23 +11453,76 @@ These are standard reverse protection diodes and small signal diodes. SMA packag
 <wire x1="180.34" y1="76.2" x2="180.34" y2="81.28" width="0.1524" layer="91"/>
 <junction x="180.34" y="81.28"/>
 </segment>
-</net>
-<net name="N$2" class="0">
 <segment>
-<pinref part="BAT2" gate="G$1" pin="+"/>
-<wire x1="78.74" y1="88.9" x2="78.74" y2="86.36" width="0.1524" layer="91"/>
+<pinref part="R12" gate="G$1" pin="2"/>
+<pinref part="SUPPLY20" gate="G$1" pin="5V"/>
+<wire x1="111.76" y1="58.42" x2="111.76" y2="55.88" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="BAT2_PREJMP" class="0">
+<segment>
 <pinref part="JP2" gate="G$1" pin="2"/>
 <wire x1="81.28" y1="93.98" x2="78.74" y2="93.98" width="0.1524" layer="91"/>
+<pinref part="F2" gate="G$1" pin="2"/>
 <wire x1="78.74" y1="93.98" x2="78.74" y2="88.9" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="BAT1_PREJMP" class="0">
+<segment>
+<pinref part="JP1" gate="G$1" pin="2"/>
+<wire x1="60.96" y1="93.98" x2="63.5" y2="93.98" width="0.1524" layer="91"/>
+<pinref part="F1" gate="G$1" pin="2"/>
+<wire x1="63.5" y1="93.98" x2="63.5" y2="88.9" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="BAT1_F" class="0">
+<segment>
+<pinref part="BAT1" gate="G$1" pin="+"/>
+<wire x1="63.5" y1="76.2" x2="63.5" y2="78.74" width="0.1524" layer="91"/>
+<pinref part="F1" gate="G$1" pin="1"/>
+</segment>
+</net>
+<net name="BAT2_F" class="0">
+<segment>
+<pinref part="BAT2" gate="G$1" pin="+"/>
+<wire x1="78.74" y1="78.74" x2="78.74" y2="76.2" width="0.1524" layer="91"/>
+<pinref part="F2" gate="G$1" pin="1"/>
+</segment>
+</net>
+<net name="N$1" class="0">
+<segment>
+<pinref part="LED20" gate="G$1" pin="C"/>
+<wire x1="111.76" y1="35.56" x2="111.76" y2="33.02" width="0.1524" layer="91"/>
+<pinref part="LED19" gate="G$1" pin="C"/>
+<wire x1="111.76" y1="33.02" x2="101.6" y2="33.02" width="0.1524" layer="91"/>
+<wire x1="101.6" y1="33.02" x2="101.6" y2="35.56" width="0.1524" layer="91"/>
+<pinref part="LED21" gate="G$1" pin="C"/>
+<wire x1="111.76" y1="33.02" x2="121.92" y2="33.02" width="0.1524" layer="91"/>
+<wire x1="121.92" y1="33.02" x2="121.92" y2="35.56" width="0.1524" layer="91"/>
+<junction x="111.76" y="33.02"/>
+<wire x1="111.76" y1="33.02" x2="111.76" y2="30.48" width="0.1524" layer="91"/>
+<pinref part="JP3" gate="G$1" pin="2"/>
 </segment>
 </net>
 <net name="N$3" class="0">
 <segment>
-<pinref part="JP1" gate="G$1" pin="2"/>
-<wire x1="60.96" y1="93.98" x2="63.5" y2="93.98" width="0.1524" layer="91"/>
-<wire x1="63.5" y1="93.98" x2="63.5" y2="88.9" width="0.1524" layer="91"/>
-<pinref part="BAT1" gate="G$1" pin="+"/>
-<wire x1="63.5" y1="86.36" x2="63.5" y2="88.9" width="0.1524" layer="91"/>
+<pinref part="LED19" gate="G$1" pin="A"/>
+<wire x1="101.6" y1="43.18" x2="101.6" y2="45.72" width="0.1524" layer="91"/>
+<pinref part="R11" gate="G$1" pin="1"/>
+</segment>
+</net>
+<net name="N$4" class="0">
+<segment>
+<pinref part="LED20" gate="G$1" pin="A"/>
+<wire x1="111.76" y1="43.18" x2="111.76" y2="45.72" width="0.1524" layer="91"/>
+<pinref part="R12" gate="G$1" pin="1"/>
+</segment>
+</net>
+<net name="N$5" class="0">
+<segment>
+<pinref part="LED21" gate="G$1" pin="A"/>
+<wire x1="121.92" y1="43.18" x2="121.92" y2="45.72" width="0.1524" layer="91"/>
+<pinref part="R13" gate="G$1" pin="1"/>
 </segment>
 </net>
 </nets>
@@ -11460,6 +12105,13 @@ These are standard reverse protection diodes and small signal diodes. SMA packag
 <junction x="215.9" y="43.18"/>
 </segment>
 </net>
+<net name="LEDDAT_OUT" class="0">
+<segment>
+<pinref part="LED18" gate="G$1" pin="DOUT"/>
+<wire x1="233.68" y1="81.28" x2="236.22" y2="81.28" width="0.1524" layer="91"/>
+<label x="236.22" y="81.28" size="1.27" layer="95" xref="yes"/>
+</segment>
+</net>
 </nets>
 </sheet>
 </sheets>
@@ -11501,10 +12153,10 @@ These are standard reverse protection diodes and small signal diodes. SMA packag
 <approved hash="104,3,233.68,88.9,LED18,VDD,5V,,,"/>
 <approved hash="104,3,210.82,81.28,LED18,VSS,GND,,,"/>
 <approved hash="104,1,68.58,167.64,U4,VCC,V_BATT,,,"/>
-<approved hash="104,2,63.5,76.2,BAT1,-,GND,,,"/>
-<approved hash="104,2,63.5,86.36,BAT1,+,V_BATT,,,"/>
-<approved hash="104,2,78.74,76.2,BAT2,-,GND,,,"/>
-<approved hash="104,2,78.74,86.36,BAT2,+,V_BATT,,,"/>
+<approved hash="104,2,63.5,66.04,BAT1,-,GND,,,"/>
+<approved hash="104,2,63.5,76.2,BAT1,+,BAT1_F,,,"/>
+<approved hash="104,2,78.74,66.04,BAT2,-,GND,,,"/>
+<approved hash="104,2,78.74,76.2,BAT2,+,BAT2_F,,,"/>
 <approved hash="104,2,177.8,81.28,U2,VOUT,5V,,,"/>
 <approved hash="104,2,147.32,81.28,U2,VIN,V_BATT,,,"/>
 <approved hash="104,1,134.62,101.6,U5,VCCA,V_BATT,,,"/>
