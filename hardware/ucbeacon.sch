@@ -8874,14 +8874,14 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <pad name="PWR@3" x="-23.88" y="-2.55" drill="1.8288" rot="R90"/>
 <pad name="PWR@1" x="-30.628" y="-0.01" drill="1.8288"/>
 <pad name="PWR@2" x="-23.88" y="2.53" drill="1.8288" rot="R90"/>
-<wire x1="-23.03" y1="22.3526" x2="-23.03" y2="11.2274" width="0.2032" layer="41"/>
-<wire x1="-23.03" y1="11.2274" x2="-32.565" y2="11.2274" width="0.2032" layer="41"/>
-<wire x1="-32.565" y1="11.2274" x2="-32.565" y2="12.345" width="0.2032" layer="41"/>
-<wire x1="-32.565" y1="12.345" x2="-36.0448" y2="12.345" width="0.2032" layer="41"/>
-<wire x1="-36.0448" y1="12.345" x2="-36.0448" y2="21.235" width="0.2032" layer="41"/>
-<wire x1="-36.0448" y1="21.235" x2="-32.565" y2="21.235" width="0.2032" layer="41"/>
-<wire x1="-32.565" y1="21.235" x2="-32.565" y2="22.3526" width="0.2032" layer="41"/>
-<wire x1="-32.565" y1="22.3526" x2="-23.03" y2="22.3526" width="0.2032" layer="41"/>
+<wire x1="-21.252" y1="5.5886" x2="-21.252" y2="-5.5366" width="0.2032" layer="41"/>
+<wire x1="-21.252" y1="-5.5366" x2="-30.787" y2="-5.5366" width="0.2032" layer="41"/>
+<wire x1="-30.787" y1="-5.5366" x2="-30.787" y2="-4.419" width="0.2032" layer="41"/>
+<wire x1="-30.787" y1="-4.419" x2="-34.2668" y2="-4.419" width="0.2032" layer="41"/>
+<wire x1="-34.2668" y1="-4.419" x2="-34.2668" y2="4.471" width="0.2032" layer="41"/>
+<wire x1="-34.2668" y1="4.471" x2="-30.787" y2="4.471" width="0.2032" layer="41"/>
+<wire x1="-30.787" y1="4.471" x2="-30.787" y2="5.5886" width="0.2032" layer="41"/>
+<wire x1="-30.787" y1="5.5886" x2="-21.252" y2="5.5886" width="0.2032" layer="41"/>
 <wire x1="-21.23" y1="5.5526" x2="-21.23" y2="-5.5726" width="0.2032" layer="21"/>
 <wire x1="-21.23" y1="-5.5726" x2="-30.765" y2="-5.5726" width="0.2032" layer="21"/>
 <wire x1="-30.765" y1="-5.5726" x2="-30.765" y2="-4.455" width="0.2032" layer="21"/>
@@ -11504,21 +11504,21 @@ These are standard reverse protection diodes and small signal diodes. SMA packag
 <pinref part="JP3" gate="G$1" pin="2"/>
 </segment>
 </net>
-<net name="N$3" class="0">
+<net name="VBATT_LED" class="0">
 <segment>
 <pinref part="LED19" gate="G$1" pin="A"/>
 <wire x1="101.6" y1="43.18" x2="101.6" y2="45.72" width="0.1524" layer="91"/>
 <pinref part="R11" gate="G$1" pin="1"/>
 </segment>
 </net>
-<net name="N$4" class="0">
+<net name="5V_LED" class="0">
 <segment>
 <pinref part="LED20" gate="G$1" pin="A"/>
 <wire x1="111.76" y1="43.18" x2="111.76" y2="45.72" width="0.1524" layer="91"/>
 <pinref part="R12" gate="G$1" pin="1"/>
 </segment>
 </net>
-<net name="N$5" class="0">
+<net name="SOLAR_LED" class="0">
 <segment>
 <pinref part="LED21" gate="G$1" pin="A"/>
 <wire x1="121.92" y1="43.18" x2="121.92" y2="45.72" width="0.1524" layer="91"/>
