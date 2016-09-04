@@ -1781,6 +1781,16 @@ Please make sure your boards conform to these design rules.</description>
 <via x="-66.3575" y="43.18" extent="1-16" drill="0.6"/>
 <via x="60.6425" y="-41.275" extent="1-16" drill="0.6"/>
 <via x="-1.27" y="36.7665" extent="1-16" drill="0.6"/>
+<via x="11.1125" y="-37.1475" extent="1-16" drill="0.6"/>
+<via x="12.065" y="-38.1" extent="1-16" drill="0.6"/>
+<via x="13.0175" y="-39.0525" extent="1-16" drill="0.6"/>
+<via x="12.7" y="-31.115" extent="1-16" drill="0.6"/>
+<via x="11.43" y="-31.115" extent="1-16" drill="0.6"/>
+<via x="11.43" y="-29.845" extent="1-16" drill="0.6"/>
+<via x="12.7" y="-29.845" extent="1-16" drill="0.6"/>
+<via x="11.43" y="-40.64" extent="1-16" drill="0.6"/>
+<via x="10.4775" y="-39.6875" extent="1-16" drill="0.6"/>
+<via x="9.525" y="-38.735" extent="1-16" drill="0.6"/>
 </signal>
 <signal name="RS232-RX">
 <contactref element="U3" pad="30"/>
