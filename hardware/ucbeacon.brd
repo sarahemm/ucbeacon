@@ -1046,6 +1046,11 @@ Basic SMA packaged diode. Good for reverse polarization protection. Common part 
 <pad name="SHLD5" x="-2.54" y="2.54" drill="0.85"/>
 <pad name="SHLD6" x="2.54" y="2.54" drill="0.85"/>
 </package>
+<package name="TP_15TH-MASKBOT">
+<description>Test point, 0.015" drill w/ mask on bottom, removed on top.</description>
+<pad name="P$1" x="0" y="0" drill="0.381" diameter="0.6096" stop="no"/>
+<circle x="0" y="0" radius="0.381" width="0" layer="29"/>
+</package>
 </packages>
 </library>
 <library name="strichlabs">
@@ -1312,6 +1317,23 @@ Basic SMA packaged diode. Good for reverse polarization protection. Common part 
 <rectangle x1="0.2518" y1="2.2983" x2="0.4018" y2="2.3483" layer="21"/>
 <rectangle x1="-0.2985" y1="2.3481" x2="-0.2485" y2="2.3981" layer="21"/>
 <rectangle x1="-0.1985" y1="2.3484" x2="-0.1485" y2="2.3984" layer="21"/>
+</package>
+</packages>
+</library>
+<library name="testpad">
+<description>&lt;b&gt;Test Pins/Pads&lt;/b&gt;&lt;p&gt;
+Cream on SMD OFF.&lt;br&gt;
+new: Attribute TP_SIGNAL_NAME&lt;br&gt;
+&lt;author&gt;Created by librarian@cadsoft.de&lt;/author&gt;</description>
+<packages>
+<package name="P1-13">
+<description>&lt;b&gt;TEST PAD&lt;/b&gt;</description>
+<circle x="0" y="0" radius="0.762" width="0.1524" layer="51"/>
+<pad name="TP" x="0" y="0" drill="1.3208" diameter="2.159" shape="octagon"/>
+<text x="-1.016" y="1.27" size="1.27" layer="25" ratio="10">&gt;NAME</text>
+<text x="0" y="0" size="0.0254" layer="27">&gt;VALUE</text>
+<text x="-1.27" y="-2.54" size="1" layer="37">&gt;TP_SIGNAL_NAME</text>
+<rectangle x1="-0.3302" y1="-0.3302" x2="0.3302" y2="0.3302" layer="51"/>
 </package>
 </packages>
 </library>
@@ -1648,20 +1670,18 @@ Please make sure your boards conform to these design rules.</description>
 <element name="JP1" library="SparkFun-Passives" package="PTH-JUMPER-2-NO_NO_SILK" value="Battery 1 Enable" x="-31.115" y="-39.0525" rot="R90"/>
 <element name="F1" library="adafruit" package="1812" value="1.5A Hold" x="-36.195" y="-39.0525"/>
 <element name="F2" library="adafruit" package="1812" value="1.5A Hold" x="36.195" y="-39.0525" rot="R180"/>
-<element name="TP1" library="SparkFun-Passives" package="TP_15TH" value="IR Data" x="38.735" y="61.595"/>
-<element name="TP2" library="SparkFun-Passives" package="TP_15TH" value="LED Data In BATT" x="1.905" y="63.8175"/>
-<element name="TP4" library="SparkFun-Passives" package="TP_15TH" value="LED Data Out" x="-27.178" y="66.8655"/>
-<element name="TP3" library="SparkFun-Passives" package="TP_15TH" value="LED Data In 5V" x="1.905" y="66.3575"/>
-<element name="TP5" library="SparkFun-Passives" package="TP_15TH" value="5V Enable" x="-8.89" y="-33.9725"/>
-<element name="TP6" library="SparkFun-Passives" package="TP_15TH" value="5V Power Good" x="-8.89" y="-35.2425"/>
-<element name="TP7" library="SparkFun-Passives" package="TP_15TH" value="Solar Level" x="2.667" y="52.5145"/>
-<element name="TP8" library="SparkFun-Passives" package="TP_15TH" value="Batery Level" x="2.667" y="45.2755"/>
-<element name="TP9" library="SparkFun-Passives" package="TP_15TH" value="Charger !CHARGE" x="8.128" y="-34.544"/>
-<element name="TP10" library="SparkFun-Passives" package="TP_15TH" value="Charger !FAULT" x="8.128" y="-35.433"/>
-<element name="TP11" library="SparkFun-Passives" package="TP_15TH" value="VBATT" x="-8.89" y="-32.7025"/>
+<element name="TP1" library="con-sen" package="TP_15TH-MASKBOT" value="IR Data" x="38.735" y="61.595"/>
+<element name="TP2" library="con-sen" package="TP_15TH-MASKBOT" value="LED Data In BATT" x="1.905" y="63.8175"/>
+<element name="TP4" library="con-sen" package="TP_15TH-MASKBOT" value="LED Data Out" x="-27.178" y="66.8655"/>
+<element name="TP3" library="con-sen" package="TP_15TH-MASKBOT" value="LED Data In 5V" x="1.905" y="66.3575"/>
+<element name="TP5" library="con-sen" package="TP_15TH-MASKBOT" value="5V Enable" x="-8.89" y="-33.9725"/>
+<element name="TP6" library="con-sen" package="TP_15TH-MASKBOT" value="5V Power Good" x="-8.89" y="-35.2425"/>
+<element name="TP7" library="con-sen" package="TP_15TH-MASKBOT" value="Solar Level" x="2.667" y="52.5145"/>
+<element name="TP8" library="con-sen" package="TP_15TH-MASKBOT" value="Batery Level" x="2.667" y="45.2755"/>
+<element name="TP9" library="con-sen" package="TP_15TH-MASKBOT" value="Charger !CHARGE" x="8.128" y="-34.544"/>
+<element name="TP10" library="con-sen" package="TP_15TH-MASKBOT" value="Charger !FAULT" x="8.128" y="-35.433"/>
+<element name="TP11" library="con-sen" package="TP_15TH-MASKBOT" value="VBATT" x="-8.89" y="-32.7025"/>
 <element name="TP12" library="SparkFun-Passives" package="TP_15TH" value="+5V" x="-16.51" y="-32.7025"/>
-<element name="TP13" library="SparkFun-Passives" package="TP_15TH" value="GND" x="0" y="-33.3375"/>
-<element name="TP14" library="SparkFun-Passives" package="TP_15TH" value="GND" x="0" y="33.3375"/>
 <element name="LED19" library="SparkFun-LED" package="LED-1206" value="VBATT" x="5.08" y="-58.7375" rot="R270">
 <attribute name="PROD_ID" value="DIO-00862" x="-95.25" y="-95.5675" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
@@ -1684,6 +1704,12 @@ Please make sure your boards conform to these design rules.</description>
 <element name="JP8" library="SparkFun-Passives" package="PAD-JUMPER-2-NO_YES_SILK" value="Battery 1 Enable" x="-28.575" y="-39.0525" rot="R90"/>
 <element name="JP9" library="SparkFun-Passives" package="PAD-JUMPER-2-NO_YES_SILK" value="Battery 1 Enable" x="28.575" y="-39.0525" rot="R90"/>
 <element name="U$1" library="strichlabs" package="STRICH-LOGO" value="" x="45.593" y="-64.9605" rot="R35"/>
+<element name="TP13" library="testpad" package="P1-13" value="GND" x="0.0635" y="-29.9085">
+<attribute name="TP_SIGNAL_NAME" value="" x="0.0635" y="-29.9085" size="2.54" layer="27" display="off"/>
+</element>
+<element name="TP14" library="testpad" package="P1-13" value="GND" x="-0.0635" y="29.9085">
+<attribute name="TP_SIGNAL_NAME" value="" x="-0.0635" y="29.9085" size="2.54" layer="27" display="off"/>
+</element>
 </elements>
 <signals>
 <signal name="GND">
@@ -1703,8 +1729,6 @@ Please make sure your boards conform to these design rules.</description>
 <contactref element="C28" pad="2"/>
 <contactref element="C29" pad="2"/>
 <contactref element="SW2" pad="B2"/>
-<contactref element="TP13" pad="P$1"/>
-<contactref element="TP14" pad="P$1"/>
 <contactref element="BAT2" pad="GND@1"/>
 <contactref element="BAT1" pad="GND@1"/>
 <contactref element="CN1" pad="GND"/>
@@ -1791,6 +1815,8 @@ Please make sure your boards conform to these design rules.</description>
 <via x="11.43" y="-40.64" extent="1-16" drill="0.6"/>
 <via x="10.4775" y="-39.6875" extent="1-16" drill="0.6"/>
 <via x="9.525" y="-38.735" extent="1-16" drill="0.6"/>
+<contactref element="TP13" pad="TP"/>
+<contactref element="TP14" pad="TP"/>
 </signal>
 <signal name="RS232-RX">
 <contactref element="U3" pad="30"/>
